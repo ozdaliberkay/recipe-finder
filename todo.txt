@@ -1,0 +1,9 @@
+random yemek. Bugün ne pişirsem? 
+favori tarifler kısmı
+
+idMeal": "52948",
+      "strMeal": "Wontons", -- tıkladığında bu yemeğin daha ayrıntılı tek sayfasına gidecek
+      "strDrinkAlternate": null,
+      "strCategory": "Pork",-- tıkladığında kategoriye göre data çeken ekrana gidecek
+      "strArea": "Chinese", -- tıkladığında ülkelere göre data çeken ekrana gidecek
+ fav ingridient cheese tomato falan herneyse ona göre arama da koyabiliriz
