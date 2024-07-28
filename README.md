@@ -6,7 +6,7 @@ The Recipe Finder App is a React Native mobile application that helps users disc
 
 ## Features
 
-- **Search for Recipes**: Search for recipes based on categories or areas.
+- **Search for Recipes**: Search for recipes by name.
 - **Category Browsing**: Explore recipes by categories.
 - **Area Browsing**: Discover recipes based on different regions.
 - **Random Recipe**: Get a surprise recipe with a single click.
