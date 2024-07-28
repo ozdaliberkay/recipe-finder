@@ -28,4 +28,4 @@ The Recipe Finder App is a React Native mobile application that helps users disc
 
 ## Video Demonstration
 
-You can view a demonstration of the app [here](YOUR_VIDEO_LINK_HERE).
+You can view a demonstration of the app [here](https://www.youtube.com/watch?v=nolcfLizbmI).
